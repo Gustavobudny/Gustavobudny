@@ -2,7 +2,7 @@
 <p> 🏫 Estou no 2 ano do ensino médio do colégio SATC/SC, <br> e atualmente curso informatica 2/4 🖥📖 Estudando, Python, HTML, CSS, C e C++
 </p>
 
-<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobudny&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/>   </p>
+<p>  <img align="center">src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobudny&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/>   </p>
 
 <h2 align="center">🛠️ Areas de Conhecimento</h2>
 
