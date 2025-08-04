@@ -1,5 +1,5 @@
 <h1 align="center">  Olá! prazer, me chamo Gustavo! 🙂 </h1>
-<p align="center"> 🏫 Estou no 2 ano do ensino médio do colégio SATC/SC, <br> e atualmente curso informatica 2/4 🖥📖 Estudando, Python, HTML, CSS, C e C++
+<p align="center"> 🏫 Estou no 2 ano do ensino médio do colégio SATC/SC, <br> e atualmente curso informatica <br> 2/4 🖥📖 Estudando, Python, HTML, CSS, C e C++
 </p>
 
 <p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobudny&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/>   </p>
