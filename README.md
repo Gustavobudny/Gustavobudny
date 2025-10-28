@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobudny&layout=compact&theme=apprentice&show_icons=true" alt="Top Languages" loading="lazy"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gustavobudny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 
 <h2 align="center">🛠️ Areas de Conhecimento</h2>
