@@ -6,7 +6,6 @@
   <a href="https://github.com/Gustavobudny">
   </a>
   <a href="https://github.com/Gustavobudny">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobudny&layout=compact&langs_count=7&theme=github_dark" alt="Top linguagens"/>
   </a>
 </p>
 
