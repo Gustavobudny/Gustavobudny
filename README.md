@@ -1,5 +1,5 @@
 <h1 align="center">  Olá! prazer, me chamo Gustavo! </h1>
-<p align="center"> 🏫 Estou no 2 ano do ensino médio do colégio SATC/SC, <br> e atualmente curso informatica 3/4 🖥<br>📖 Estudando, Python, HTML, CSS, C e C++
+<p align="center"> 🏫 Estou no 3 ano do ensino médio do colégio SATC/SC, <br> e atualmente curso informatica 3/4 🖥<br>📖 Estudando, Python, HTML, CSS, C e C++
 </p>
 
 <p align="center">
