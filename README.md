@@ -24,7 +24,7 @@
 <h2 align="center">✉️ Contatos: </h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/gustavobudny/" target="_blank">
+  <a href="https://www.instagram.com/gustavo_budny/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" loading="lazy">
   </a>
   <a href="mailto:gustavosouza1317@gmail.com">
